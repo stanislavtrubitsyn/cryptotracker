@@ -1,5 +1,4 @@
 package com.cryptotracker.cryptotracker.entity;
-
 import jakarta.persistence.*;
 import lombok.Data;
 

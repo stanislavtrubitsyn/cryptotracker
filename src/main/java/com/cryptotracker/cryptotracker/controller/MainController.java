@@ -6,8 +6,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-@Controller
+@Controller 
 public class MainController {
+    
     private final CryptoService cryptoService;
     private final PortfolioRepository portfolioRepository;
 
@@ -16,10 +17,12 @@ public class MainController {
         this.portfolioRepository = portfolioRepository;
     }
 
-    @GetMapping("/")
+    @GetMapping("/") 
     public String index(Model model) {
+        
         model.addAttribute("btcPrice", cryptoService.getBtcPrice());
+        
         model.addAttribute("portfolios", portfolioRepository.findAll());
-        return "index";
+        return "index.html"; 
     }
 }
