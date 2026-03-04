@@ -109,3 +109,39 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
 	at java.lang.Thread.run(Thread.java:1474)
 
+2026.03.04 15:38:44 INFO  Started: Metals version 1.6.6 in folders 'D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker' for client Visual Studio Code 1.109.5.
+2026.03.04 15:38:44 INFO  Memory monitor started
+2026.03.04 15:38:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.04 15:38:45 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:46 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:48 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+мар. 04, 2026 3:38:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+мар. 04, 2026 3:38:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.03.04 15:38:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:52 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:52 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:53 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:57 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:57 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:57 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:57 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+мар. 04, 2026 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+мар. 04, 2026 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+мар. 04, 2026 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.03.04 15:38:58 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:38:57 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:03 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:08 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:08 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 15:39:09 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
