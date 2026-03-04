@@ -3232,3 +3232,128 @@ WARNING: Unmatched cancel notification for request id 3513
 2026.03.04 20:35:13 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
 мар. 04, 2026 8:37:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.03.04 20:50:14 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\controller\MainController.java
+2026.03.04 20:50:14 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\controller\MainController.java. Using fallback presentation compiler.
+2026.03.04 20:50:15 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\controller\MainController.java. Using fallback presentation compiler.
+2026.03.04 20:50:20 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\CoinDTO.java
+2026.03.04 20:50:20 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\CoinDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:20 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\CoinDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:20 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\CoinDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:22 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\PortfolioDTO.java
+2026.03.04 20:50:22 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\PortfolioDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:22 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\PortfolioDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:22 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\dto\PortfolioDTO.java. Using fallback presentation compiler.
+2026.03.04 20:50:23 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java
+2026.03.04 20:50:23 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 20:50:23 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 20:50:23 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 20:50:23 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Coin.java. Using fallback presentation compiler.
+2026.03.04 20:50:27 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Portfolio.java
+2026.03.04 20:50:27 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Portfolio.java. Using fallback presentation compiler.
+2026.03.04 20:50:27 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Portfolio.java. Using fallback presentation compiler.
+2026.03.04 20:50:27 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Portfolio.java. Using fallback presentation compiler.
+2026.03.04 20:50:29 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java
+2026.03.04 20:50:29 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:29 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:29 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:30 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:30 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:30 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:31 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:31 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:31 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:32 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:32 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/entity/Transaction.java. Output:
+
+2026.03.04 20:50:33 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:34 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:35 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:36 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/entity/Transaction.java. Output:
+
+2026.03.04 20:50:36 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:41 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java
+2026.03.04 20:50:41 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\entity\Transaction.java. Using fallback presentation compiler.
+2026.03.04 20:50:43 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\CoinRepository.java
+2026.03.04 20:50:43 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\CoinRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:43 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\CoinRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:43 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\CoinRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:45 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\PortfolioRepository.java
+2026.03.04 20:50:45 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\PortfolioRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:45 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\PortfolioRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:45 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/repository/PortfolioRepository.java. Output:
+
+2026.03.04 20:50:45 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\PortfolioRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:45 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\PortfolioRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:46 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\TransactionRepository.java
+2026.03.04 20:50:46 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\TransactionRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:46 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\TransactionRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:46 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\repository\TransactionRepository.java. Using fallback presentation compiler.
+2026.03.04 20:50:48 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java
+2026.03.04 20:50:48 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:48 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:48 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:48 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:50 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:52 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:52 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:53 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:53 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:53 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:50:53 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:54 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:54 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:50:58 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:58 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:59 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:59 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:59 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:50:59 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:00 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:00 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:03 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:03 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+мар. 04, 2026 8:51:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3733
+2026.03.04 20:51:03 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:03 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:05 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:05 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:05 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:05 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:05 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:05 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:07 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:07 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:07 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:07 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:08 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:08 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:08 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:08 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:08 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:11 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:11 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:11 WARN  Running javac-semanticdb failed for file:///D:/Универ/Учеба/4%20курс/2%20семестр/JAVAП/cryptotracker/src/main/java/com/cryptotracker/cryptotracker/service/CryptoService.java. Output:
+
+2026.03.04 20:51:11 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:14 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java
+2026.03.04 20:51:14 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\CryptoService.java. Using fallback presentation compiler.
+2026.03.04 20:51:16 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\PortfolioService.java
+2026.03.04 20:51:16 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\PortfolioService.java. Using fallback presentation compiler.
+2026.03.04 20:51:16 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\PortfolioService.java. Using fallback presentation compiler.
+2026.03.04 20:51:16 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\PortfolioService.java. Using fallback presentation compiler.
+2026.03.04 20:51:16 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\service\PortfolioService.java. Using fallback presentation compiler.
+2026.03.04 20:51:23 WARN  no build target for: D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\CryptotrackerApplication.java
+2026.03.04 20:51:23 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\CryptotrackerApplication.java. Using fallback presentation compiler.
+2026.03.04 20:51:24 INFO  no build target found for D:\Универ\Учеба\4 курс\2 семестр\JAVAП\cryptotracker\src\main\java\com\cryptotracker\cryptotracker\CryptotrackerApplication.java. Using fallback presentation compiler.
